@@ -181,6 +181,30 @@ Peiyan Li, Hongtao Wu, Yan Huang, Chilam Cheang, Liang Wang, Tao Kong
 <br>
 <a href="https://arxiv.org/pdf/2408.14368"> Paper</a>, <a href="https://github.com/bytedance/GR-MG/"> Code </a>
 
+<b> GHIL-Glue: Hierarchical Control with Filtered Subgoal Images </b>
+<br>
+Kyle B Hatch, Ashwin Balakrishna, Oier Mees, Suraj Nair, Seohong Park, Blake Wulfe, Masha Itkina, Benjamin Eysenbach, Sergey Levine, Thomas Kollar, Benjamin Burchfiel
+<br>
+<a href="https://arxiv.org/pdf/2410.20018"> Paper</a>, <a href="https://github.com/kyle-hatch-tri/ghil-glue"> Code </a>
+
+<b> Efficient Diffusion Transformer Policies with Mixture of Expert Denoisers for Multitask Learning </b>
+<br>
+Moritz Reuss, Jyothish Pari, Pulkit Agrawal, Rudolf Lioutikov
+<br>
+<a href="https://arxiv.org/pdf/2412.12953"> Paper</a>, <a href="https://github.com/intuitive-robots/MoDE_Diffusion_Policy"> Code </a>
+
+<b> Closed-Loop Visuomotor Control with Generative Expectation for Robotic Manipulation </b>
+<br>
+Qingwen Bu, Jia Zeng, Li Chen, Yanchao Yang, Guyue Zhou, Junchi Yan, Ping Luo, Heming Cui, Yi Ma, Hongyang Li
+<br>
+<a href="https://arxiv.org/pdf/2409.09016"> Paper</a>, <a href="https://github.com/OpenDriveLab/CLOVER"> Code </a>
+
+<b> DeeR-VLA: Dynamic Inference of Multimodal Large Language Models for Efficient Robot Execution </b>
+<br>
+Yang Yue, Yulin Wang, Bingyi Kang, Yizeng Han, Shenzhi Wang, Shiji Song, Jiashi Feng, Gao Huang
+<br>
+<a href="https://arxiv.org/pdf/2411.02359"> Paper</a>, <a href="https://github.com/yueyang130/DeeR-VLA"> Code </a>
+
 <b> RoboUniView: Visual-Language Model with Unified View Representation for Robotic Manipulation </b>
 <br>
 Fanfan Liu, Feng Yan, Liming Zheng, Yiyang Huang, Chengjian Feng, Lin Ma
@@ -203,7 +227,7 @@ Tsung-Wei Ke, Nikolaos Gkanatsios, Katerina Fragkiadaki
 <br>
 Hongtao Wu, Ya Jing, Chilam Cheang, Guangzeng Chen, Jiafeng Xu, Xinghang Li, Minghuan Liu, Hang Li, Tao Kong
 <br>
-<a href="https://arxiv.org/pdf/2312.13139.pdf"> Paper</a>, <a href="https://gr1-manipulation.github.io"> Code </a>
+<a href="https://arxiv.org/pdf/2312.13139.pdf"> Paper</a>, <a href="https://github.com/bytedance/GR-1"> Code </a>
 
 <b> Vision-Language Foundation Models as Effective Robot Imitators</b>
 <br>
